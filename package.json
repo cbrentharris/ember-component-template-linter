@@ -1,0 +1,18 @@
+{
+  "name": "Ember Component Template Linter",
+  "description": "Lint ember component templates to type their inputs",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/cbrentharris/ember-component-template-linter",
+  "author": {
+    "name": "Christopher Harris",
+    "email": "cbrentharris@gmail.com",
+    "url": "https://github.com/cbrentharris"
+  },
+  "main": "lib",
+  "repository": {},
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "shelljs": "^0.7.8"
+  }
+}
